@@ -25,3 +25,7 @@ header {
 #foto-copyright {
     font-size: 0.8em;
 }
+
+.evidenziato {
+    background-color: yellow;
+}
