@@ -21,3 +21,7 @@ header {
 .blue-text {
     color: rgb(142, 211, 242)
 }
+
+#foto-copyright {
+    font-size: 0.8em;
+}
