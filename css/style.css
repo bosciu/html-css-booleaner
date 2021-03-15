@@ -29,3 +29,40 @@ header {
 .evidenziato {
     background-color: yellow;
 }
+
+table {
+    text-align: left;
+    border-spacing: 0;
+}
+
+thead {
+    background-color: rgb(23, 169, 229);
+}
+
+.barra-larga {
+    width: 50%;
+}
+
+.celeste {
+    background-color: rgb(177, 229, 242);
+}
+
+.ads {
+    margin-top: 50px;
+    color: grey;
+    font-weight: 900;
+}
+
+.ads-image {
+    margin: 10px 0px;
+    background: url(../img/monitor.jpg) no-repeat;
+    width: 20%;
+    height: 200px;
+    font-size: 30px;
+    font-weight: 900;
+    color: white;
+}
+
+.second-image {
+    background: url(../img/graph.jpg) no-repeat;
+}
