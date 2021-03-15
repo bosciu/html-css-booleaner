@@ -1,0 +1,68 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    height: 100vh;
+}
+
+header {
+    height: 15%;
+    background: url("../img/pattern.png") rgb(78, 160, 255);
+}
+
+#logo {
+    width: 15%;
+    height: 100%;
+    background: url('../img/logo.svg') bottom left no-repeat;
+}
+
+#copyright {
+    font-size: 0.9em;
+}
+
+.blue-text {
+    color: rgb(142, 211, 242)
+}
+
+#foto-copyright {
+    font-size: 0.8em;
+}
+
+.evidenziato {
+    background-color: yellow;
+}
+
+table {
+    text-align: left;
+    border-spacing: 0;
+}
+
+thead {
+    background-color: rgb(23, 169, 229);
+}
+
+.barra-larga {
+    width: 50%;
+}
+
+.celeste {
+    background-color: rgb(177, 229, 242);
+}
+
+.ads {
+    margin-top: 50px;
+    color: grey;
+    font-weight: 900;
+}
+
+.ads-image {
+    margin: 10px 0px;
+    background: url(../img/monitor.jpg) no-repeat;
+    width: 20%;
+    height: 200px;
+    font-size: 30px;
+    font-weight: 900;
+    color: white;
+}
+
+.second-image {
+    background: url(../img/graph.jpg) no-repeat;
+}
