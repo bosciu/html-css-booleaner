@@ -1,6 +1,7 @@
 body {
     font-family: 'Roboto Condensed', sans-serif;
     height: 100vh;
+    text-align: justify;
 }
 
 header {
@@ -9,9 +10,15 @@ header {
 }
 
 #logo {
+    margin-left: 10%;
     width: 15%;
     height: 100%;
     background: url('../img/logo.svg') bottom left no-repeat;
+}
+
+article {
+    width: 80%;
+    margin: auto;
 }
 
 #copyright {
