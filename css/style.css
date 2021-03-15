@@ -8,8 +8,16 @@ header {
     background: url("../img/pattern.png") rgb(78, 160, 255);
 }
 
-.logo {
+#logo {
     width: 15%;
     height: 100%;
     background: url('../img/logo.svg') bottom left no-repeat;
+}
+
+#copyright {
+    font-size: 0.9em;
+}
+
+.blue-text {
+    color: rgb(142, 211, 242)
 }
