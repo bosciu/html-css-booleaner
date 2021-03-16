@@ -16,7 +16,7 @@ header {
     background: url('../img/logo.svg') bottom left no-repeat;
 }
 
-article {
+main {
     width: 80%;
     margin: auto;
 }
